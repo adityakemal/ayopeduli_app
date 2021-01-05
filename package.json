@@ -11,7 +11,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.12.1",
     "@react-native-community/masked-view": "0.1.5",
     "@react-navigation/native": "^5.0.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "~36.0.0",
     "formik": "^2.1.4",
     "react": "~16.9.0",
